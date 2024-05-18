@@ -1,8 +1,6 @@
-# gameProject
- 
-L1S21BSCS0008 - QADEES UR REHMAN
 
-L1S21BSCS0080 - MASHAIM HAIDER
+ 
+
 
 The Game is consisted of 5 levels on which user have to cross some obstacles or enemies to reach the next level. In the levels the obstacles include moving floors and enemy on our floor which can be killed by jumping on its head or avoiding it all together. 
 
@@ -13,6 +11,7 @@ The game Starts with a screen from which user can either select levels or just p
 
 ![image](https://github.com/qpcGH/gameProjectGD/assets/74194364/cd77f20e-6823-4f59-a178-185112009455)
 
+![Screenshot_1](https://github.com/qpcGH/gameProjectGD/assets/74194364/4f816448-c74e-4722-b67e-f08bc6a8cbdb)
 
 
 ![image](https://github.com/qpcGH/gameProjectGD/assets/74194364/994caea0-ebac-459a-8690-47bc4130405d)
